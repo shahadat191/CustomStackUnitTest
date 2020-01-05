@@ -1,0 +1,11 @@
+C:\Users\Mozahid\source\repos\Homework\Stack\Stack\bin\Debug\netcoreapp3.1\Stack.exe
+C:\Users\Mozahid\source\repos\Homework\Stack\Stack\bin\Debug\netcoreapp3.1\Stack.deps.json
+C:\Users\Mozahid\source\repos\Homework\Stack\Stack\bin\Debug\netcoreapp3.1\Stack.runtimeconfig.json
+C:\Users\Mozahid\source\repos\Homework\Stack\Stack\bin\Debug\netcoreapp3.1\Stack.runtimeconfig.dev.json
+C:\Users\Mozahid\source\repos\Homework\Stack\Stack\bin\Debug\netcoreapp3.1\Stack.dll
+C:\Users\Mozahid\source\repos\Homework\Stack\Stack\bin\Debug\netcoreapp3.1\Stack.pdb
+C:\Users\Mozahid\source\repos\Homework\Stack\Stack\obj\Debug\netcoreapp3.1\Stack.csprojAssemblyReference.cache
+C:\Users\Mozahid\source\repos\Homework\Stack\Stack\obj\Debug\netcoreapp3.1\Stack.AssemblyInfoInputs.cache
+C:\Users\Mozahid\source\repos\Homework\Stack\Stack\obj\Debug\netcoreapp3.1\Stack.AssemblyInfo.cs
+C:\Users\Mozahid\source\repos\Homework\Stack\Stack\obj\Debug\netcoreapp3.1\Stack.dll
+C:\Users\Mozahid\source\repos\Homework\Stack\Stack\obj\Debug\netcoreapp3.1\Stack.pdb
